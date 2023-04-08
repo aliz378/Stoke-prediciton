@@ -1,0 +1,7 @@
+# python==3.10.8
+matplotlib==3.6.2
+numpy==1.23.4
+pandas==1.5.1
+seaborn==0.12.1
+pandas-profiling==3.6.6
+DateTime==5.1
